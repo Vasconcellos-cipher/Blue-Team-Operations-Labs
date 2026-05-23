@@ -26,8 +26,7 @@ This dynamic matrix lists completed defensive investigations. Click on the **Wri
 | Category | Incident / Case Name | Core Threat / Technique | Status | Documentation |
 | :--- | :--- | :--- | :--- | :--- |
 | **Web Application Attacks** | IDOR - Automated Data Exfiltration | CWE-639 / Parameter Fuzzing | 🟢 Completed | [View Report](./Web-Application-Attacks/IDOR-Automated-Exfiltration/) |
-| **Web Application Attacks** | Command Injection Exploitation | T1190 / OS Command Execution | 🟡 In Progress | *Uploading* |
-| **Network Security Alerts** | False Positive URL Signature | False Positive Mitigation | 🟡 In Progress | *Uploading* |
+| :--- | :--- | :--- | :--- | :--- |
 
 ---
 
