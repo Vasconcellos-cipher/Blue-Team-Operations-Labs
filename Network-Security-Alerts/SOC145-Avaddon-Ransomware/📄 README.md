@@ -28,7 +28,9 @@ Cryptographic extraction and binary metadata triage were conducted to verify fil
 
 Below are the visual threat intelligence indicators mapping the artifact to known extortion campaigns:
 
-![VirusTotal Ransomware Detection](screenshots/ransomware_avaddon_vt.png)
+![VirusTotal Ransomware Detection](screenshots/img1.png)
+![VirusTotal Ransomware Detection](screenshots/img2.png)
+![VirusTotal Ransomware Detection](screenshots/img3.png)
 
 ---
 
